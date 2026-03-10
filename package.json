@@ -2,6 +2,7 @@
   "name": "expensetracker",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://ganesh1376.github.io/Expense_Tracker",
   "dependencies": {
     "@mui/material": "^5.15.15",
     "@mui/icons-material": "^5.15.15",
